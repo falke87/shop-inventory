@@ -1,0 +1,10 @@
+build/
+build-*/
+out/
+CMakeLists.txt.user*
+.qtc_clangd/
+.vs/
+.vscode/
+.idea/
+packaging/windows/ShopInventory/
+*.db
